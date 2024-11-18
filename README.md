@@ -6,7 +6,7 @@
 
 ### About me
 
-Graduated from Indian Institute of Technology Mandi with a major in Physics. 
+Graduated from Indian Institute of Technology Mandi with a specialization in Experimental High Energy Physics
 - Interested in Experimental High Energy Physics and Detector Simulation
 - I specialize in ROOT, a powerful C++ physics analysis toolkit
 - I am proficient in GEANT4, a powerful C++ physics modelling toolkit
