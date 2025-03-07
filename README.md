@@ -16,7 +16,7 @@ Graduated from Indian Institute of Technology Mandi with a specialization in Exp
 ## 🛠️ My skills
 ### Programming language and libraries
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,py,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,py,r,latex)](https://skillicons.dev)
 
 ### Operating Systems and IDE
 [![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,vscode)](https://skillicons.dev)
